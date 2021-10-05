@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeffor12
 - 👀 I’m interested in DAOs, Finance, Decentralised Protocols 
-- 🌱 I’m currently learning solididy, getting involved in crypto project..
+- 🌱 I’m currently learning solidity, getting involved in crypto project..
 - 💞️ I’m looking to collaborate on DAOs
 - 📫 How to reach me ...here :) or on twitter @jeff84431381
 
